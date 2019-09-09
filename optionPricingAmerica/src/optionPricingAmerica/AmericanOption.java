@@ -1,6 +1,6 @@
 package optionPricingAmerica;
 
-public class BinomialTreeAmericanOption {
+public class AmericanOption {
 	
 //	implementation of the binomial approximation of the value of a put option on stock for the
 //	Ornstein-Uhlenbeck (OU) process.
